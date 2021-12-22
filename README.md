@@ -5,8 +5,8 @@
 There is no claim that this will work as intended and may destroy your entire database.
 
 You will need to install the following python packages (pip install...)
-python-dotenv
-cx_Oracle
+- python-dotenv
+- cx_Oracle
 
 For cx_Oracle, you'll need the Oracle instantclient basiclite on your system
 
